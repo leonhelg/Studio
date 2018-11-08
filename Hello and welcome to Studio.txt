@@ -1,3 +1,4 @@
 This is your captain speaking. Our shared code will be here.
 This is your co-captain speaking!
-This is your chief in command speaking.
+This is your chief in command speaking
+Hello, this is a test
