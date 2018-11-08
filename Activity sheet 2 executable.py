@@ -32,4 +32,5 @@ else:
     f'{Fore.RED}{fav_lang1}{Style.RESET_ALL}' + ".\n" + f'{Fore.BLUE}{name2}{Style.RESET_ALL}' + 
     "'s favourite programming language is " + f'{Fore.BLUE}{fav_lang2}{Style.RESET_ALL}' + ".")
 
-#Testing branches
+#Still just testing branches I swear
+#Testing a whole lot of them
